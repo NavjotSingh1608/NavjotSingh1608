@@ -5,54 +5,58 @@ I'm a **third-year Computer Science Engineering student** at the Army Institute 
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently working on:** A **MERN stack project** that enables users to search, add friends, and send friend requests. The project also includes a friend recommendation system based on user interactions and social graph analysis.
+
+- 🔭 **Currently working on:**
+  -  A **synchronous chat application** using **Socket.io** and the **MERN stack** to provide real-time messaging features.
+  - A **password manager application** using **React.js** for secure storage and management of passwords.
+
 - 🌱 **Currently learning:** 
-  - **PL/SQL** for advanced database management (procedures, functions, triggers).
-  - Improving my skills in **competitive coding**, with a focus on **LeetCode** and **problem-solving algorithms**.
-  - Delving into **blockchain development** as part of an internship opportunity.
-- 🤔 **Looking for help with:** Deepening my knowledge of **blockchain** and **decentralized apps (dApps)**.
-- 👯 **Looking to collaborate on:** Open-source projects in **web development**, **MERN stack**, or **blockchain** projects. I'm also interested in contributing to **developer tools** and anything that involves **UI/UX enhancements**.
+  - Deep diving into **advanced MERN stack** technologies, including **Docker** and **Kafka**, to enhance scalability and performance in web applications.
+  - Improving my skills in **competitive coding**, with a focus on **LeetCode** challenges.
+
+- 🤔 **Looking for help with:** Exploring advanced concepts in **web application scalability** and **performance optimization**.
+
+- 👯 **Looking to collaborate on:** Open-source projects in **web development**, particularly those involving **MERN stack** or **UI/UX enhancements**.
+
 - 💬 **Ask me about:** 
   - **React.js**, **Next.js**, **Tailwind CSS**, **Node.js**, **Express.js**.
   - Anything related to **web development** or building scalable full-stack applications.
-  - **Network design and topologies** (I love exploring how networks work in real-time simulation).
+  - **Real-time applications** and **Socket.io** for building interactive features.
+
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I'm deeply passionate about **sports** and often draw analogies between coding and sports strategy. Also, I enjoy experimenting with **UI animations** using libraries like **Framer Motion** and **CSS transitions**.
 
 ---
 
 ### 🛠️ Technologies & Tools
-- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Material UI, ShadCN
-- **Backend:** Node.js, Express.js, MongoDB
-- **Database Management:** MySQL, MongoDB, PL/SQL
-- **Tools & Platforms:** Git, Docker, Firebase, Render
-- **Languages:** JavaScript, TypeScript, PHP, Python, PL/SQL
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI, ShadCN
+- **Backend:** Node.js, Express.js
+- **Database Management:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, Kafka, Firebase, Render
+- **Languages:** JavaScript, C/C++, Java, Python
 - **Other Skills:** 
   - **Version Control**: GitHub, Git
-  - **API Development**: REST APIs, Facebook Graph API
+  - **API Development**: REST APIs
   - **UI/UX Design**: Figma, UI component libraries
 
 ---
 
 ### 📚 Current Projects
-- **Friend Finder App:** A full-stack web app where users can search for friends, send requests, and get friend recommendations. Features include user authentication and backend optimization.
-- **Password Manager App:** A secure password management system built with **React.js**, allowing users to store, edit, and manage passwords via a clean interface.
-- **Flashcard Learning Tool:** A React-based flashcard tool with an intuitive dashboard and MySQL database integration to help users manage flashcards for various topics.
+- **💬 Synchronous Chat App:** A real-time chat application using **Socket.io** and the **MERN stack**, providing features for live messaging and chat room functionalities.
+- **🔐 Password Manager App:** A secure password management system built with **React.js**, allowing users to store, edit, and manage passwords via a clean interface.
 
 ---
 
 ### 🚀 Featured Work
-- **Network Topologies Simulation**: Designed various network topologies like Star, Mesh, and Bus using **Cisco Packet Tracer** to simulate real-time network behavior.
-- **MERN Stack Projects**: Building modern web applications using MongoDB, Express.js, React, and Node.js.
-- **End-to-End Application Testing**: Implementing testing pipelines for web applications to ensure quality across the stack.
+- **🌐 MERN Stack Projects:** Building modern web applications using MongoDB, Express.js, React, and Node.js. Currently exploring advanced technologies like **Docker** for containerization and **Kafka** for messaging and data streaming.
+- **✅ End-to-End Application Testing:** Implementing testing pipelines for web applications to ensure quality across the stack.
 
 ---
 
 ### 🏆 Achievements
-- **CGPA:** 9.125
-- **12th Standard Score:** 97.2%
-- **LeetCode:** Active in solving algorithm challenges to enhance problem-solving abilities.
-- **Certifications:** 
+- **🎓 CGPA:** 9.125
+- **🏆 12th Standard Score:** 97.2%
+- **💻 LeetCode:** Active in solving algorithm challenges to enhance problem-solving abilities.
+- **🏅 Certifications:** 
   - Full Stack Web Development
   - Advanced React.js & JavaScript
   
@@ -60,15 +64,14 @@ I'm a **third-year Computer Science Engineering student** at the Army Institute 
 
 ### 🎯 Goals for 2024
 - Contribute to **open-source projects** that help developers build better tools and applications.
-- Gain hands-on experience in **blockchain development** and create decentralized apps.
-- Complete a personal project where I **combine sports analytics with coding**, creating a tool to visualize game strategies.
+- Deepen expertise in **advanced MERN stack** technologies and improve **application scalability**.
 
 ---
 
 ### 📫 How to Reach Me
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Portfolio](https://your-portfolio-link.com)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](www.linkedin.com/in/navjot-singh-a07714184)
+- [Portfolio](https://navjotsinghportfolio.netlify.app/)
+- [Email](mailto:navjotsingh280407@gmail.com)
 
 ---
 
