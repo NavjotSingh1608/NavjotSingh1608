@@ -74,6 +74,9 @@ Here are some of the projects I've worked on:
 
 ---
 
+## Badges
+[![An image of @navjotsingh1608's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navjotsingh1608)](https://holopin.io/@navjotsingh1608)
+
 ### 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/navjot-singh-a07714184)
